@@ -1,0 +1,10 @@
+Name, Date of Birth, Gender, Study Mode, Year, Number of modules, Tuition Fee
+Samuel Kain,20/02/2000,M,PT,1,1,750
+John Brown,12/03/2001,M,PT,3,3,2250
+Samuel Smith,10/02/2000,M,PT,1,1,750
+Sam,10/02/2000,M,PT,1,4,3000
+Jessica Russell,23/11/2001,F,FT,2,6,4500
+Roy ,20/02/2001,M,pt,1,1,750
+Kamal Khatri,20/02/2099,m,pt,1,5,3750
+Josh,16/09/2003,m,pt,1,1,750
+kam,20/02/2001,m,ft,1,1,5000
